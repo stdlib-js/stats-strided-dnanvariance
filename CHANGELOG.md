@@ -1,0 +1,48 @@
+# CHANGELOG
+
+> Package changelog.
+
+<section class="release" id="unreleased">
+
+## Unreleased (2025-03-29)
+
+<section class="features">
+
+### Features
+
+-   [`13e63a5`](https://github.com/stdlib-js/stdlib/commit/13e63a5d13681396e8d57cb967e00075bc4146fb) - add `stats/strided/dnanvariance`
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`13e63a5`](https://github.com/stdlib-js/stdlib/commit/13e63a5d13681396e8d57cb967e00075bc4146fb) - **feat:** add `stats/strided/dnanvariance` _(by Aayush Khanna)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Aayush Khanna
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
