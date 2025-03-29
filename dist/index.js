@@ -1,5 +1,5 @@
 "use strict";var i=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var t=i(function(k,v){
-var f=require('@stdlib/stats-base-dnanvariancepn/dist').ndarray;function x(e,r,n,a,y){return f(e,r,n,a,y)}v.exports=x
+var f=require('@stdlib/stats-strided-dnanvariancepn/dist').ndarray;function x(e,r,n,a,y){return f(e,r,n,a,y)}v.exports=x
 });var c=i(function(w,s){
 var j=require('@stdlib/strided-base-stride2offset/dist'),m=t();function l(e,r,n,a){return m(e,r,n,a,j(e,a))}s.exports=l
 });var o=i(function(z,q){
